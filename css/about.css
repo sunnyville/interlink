@@ -312,3 +312,19 @@
 #ourteam .member-info-wrapper {
 	text-align: center;
 }
+
+.member-info-wrapper {
+	padding: 0 80px;
+}
+
+
+.member-info-wrapper:nth-child(1) {
+	padding-left: 0;
+}
+.member-info-wrapper:nth-child(3) {
+	padding-right: 0;
+}
+
+.team-img {
+	margin-bottom: 30px;
+}
