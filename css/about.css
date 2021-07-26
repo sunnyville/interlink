@@ -37,7 +37,8 @@
 }
 #ouroffices ul {
 	list-style-type: none;
-	padding-left: 0
+	padding-left: 0;
+	margin-left: 0;
 }
 #team{
 	padding: 35px 0 25px;
